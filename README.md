@@ -55,7 +55,7 @@ After testing the circuit, the components were assembled on a perforated prototy
 
 A demo video of the smart lamp can be found here:
 
-[Watch Demo Video](videos/demo.mp4)
+[Watch Demo Video](images/demo.mp4)
 
 ---
 
